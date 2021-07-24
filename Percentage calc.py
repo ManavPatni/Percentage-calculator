@@ -8,7 +8,7 @@ window = tk.Tk()
 
 #window title and icon
 window.title("Percentage calc")
-window.iconbitmap('D:\\manav\\Python\\Percentage calc\\logo.ico')
+window.iconbitmap('logo.ico')
 #main
 
 #calculate button function & formual
